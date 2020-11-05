@@ -1,6 +1,6 @@
 import qbs
 
-StaticLibrary
+Product
 {
 	targetName: "VDIL-editor-plugin"
 
