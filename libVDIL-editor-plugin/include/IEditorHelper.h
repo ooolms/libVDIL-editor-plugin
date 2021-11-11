@@ -20,7 +20,7 @@ limitations under the License.*/
 #include <QString>
 #include <wliot/devices/ControlsDefinition.h>
 #include <wliot/devices/SensorDef.h>
-#include <wliot/storages/StorageId.h>
+#include <wliot/storages/StoragesTypes.h>
 
 namespace WLIOTVDIL
 {
