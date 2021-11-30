@@ -2,7 +2,7 @@
 #define VDILEDITORPLUGIN_H
 
 #include "IBlocksGroupEditorsFactory.h"
-#include "VDIL/plugins/VDILEnginePlugin.h"
+#include <VDIL/plugins/VDILEnginePlugin.h>
 
 namespace WLIOTVDIL
 {
